@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: webapp-color
-        image: youssefjouili33/spring-app
+        image: youssefjouili33/spring-app:springapp
